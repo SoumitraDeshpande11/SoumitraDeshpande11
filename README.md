@@ -7,12 +7,7 @@ Welcome to my GitHub! I'm Soumitra, a passionate **Computer Science Engineering 
 - **Python Projects**: Exploring everything from scientific calculators to activity trackers.  
 - **FPGA Programming**: Working on **state machines**, **UART communication**, and more using **VHDL**.  
 - **Hackathons**: Thriving on teamwork, problem-solving, and innovation.  
-
-## 🌟 Completed Projects  
-- **Virtual Workspace Organizer**: Built for a hackathon, featuring Gen AI capabilities.  
-- **Activity Tracker**: Tracks app usage with timer features and a floating UI.  
-- **Math Solver**: A web app for solving advanced math problems with step-by-step solutions.  
-- **Scientific Calculator**: A Python-based calculator with a sleek UI.  
+ 
 
 ## 📚 Ongoing Learning  
 - **Python Mastery**:  
